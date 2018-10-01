@@ -23,7 +23,7 @@ $ git config --global user.email "Mi mail"
 2. Ahora, ya en el repo forkeado, hay que clonar el repositorio. Esto se hace con el comando `git clone` y lo que hace es traer todo el repo que esta en **Github** a la máquina local, con **Git**. El URL se saca del botón verde 'Clone or download'.
 
 ```bash
-$ git clone https://github.com/MiUsuarioDeGithub/contribution-mural.git
+$ git clone https://github.com/FdelMazo/contribution-mural.git
 ```
 
 3.  Ahora es cuando se hacen los cambios. Metete en los archivos y agrega lo que quieras. Lo que quieras es lo que quieras! Se pueden agregar más funciones en `index.js`, distintos colores en `style.css`, algún gif raro en la carpeta `media` o cualquier otra cosa. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando un elemento a `content.js`. No olvidar probar que funcione, simplemente abriendo el archivo `index.html` con un explorador.  Respetá el orden de llegada y agregalo al final! 
